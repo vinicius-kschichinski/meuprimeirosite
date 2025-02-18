@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <tittle>site do vinicius</tittle>
+</head>
+
+<body>
+    <h1>meu primeiro site</h1>
+    <p1>Neste site eu usei as tecnologias:</p1>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+    </ul>
+    <p>Tambem usei as seguintes ferramentas:</p>
+    <ol>
+        <li>Git hub</li>
+        <li>versel</li>
+        <li>VSCode</li>
+    </ol>
+</body>
+
+</html>
